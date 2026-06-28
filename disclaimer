@@ -34,7 +34,7 @@
                     <svg class="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
                         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
                     </svg>
-                    <span class="text-2xl font-bold text-gray-800" id="header-logo">LearnForAll</span>
+                    <span class="text-2xl font-bold text-gray-800" id="header-logo">Tolzo.site</span>
                 </div>
 
                 <!-- Desktop Navigation -->
@@ -99,7 +99,7 @@
         <div class="container mx-auto px-4">
             <div class="max-w-4xl mx-auto">
                 <div class="disclaimer-section">
-                    <p class="text-gray-600 mb-6">The information provided by <span id="disclaimer-domain">LearnForAll</span> ("we", "us", or "our") on our website and through our tools is for general informational purposes only.</p>
+                    <p class="text-gray-600 mb-6">The information provided by <span id="disclaimer-domain">Tolzo.site</span> ("we", "us", or "our") on our website and through our tools is for general informational purposes only.</p>
                 </div>
 
                 <div class="disclaimer-section">
@@ -133,14 +133,14 @@
 
                 <div class="disclaimer-section">
                     <h2 class="text-2xl font-bold mb-4 text-gray-800">6. Views Expressed Disclaimer</h2>
-                    <p class="text-gray-600 mb-4">The Service may contain views and opinions which are those of the authors and do not necessarily reflect the official policy or position of any other author, agency, organization, employer or company, including <span id="disclaimer-domain2">LearnForAll</span>.</p>
+                    <p class="text-gray-600 mb-4">The Service may contain views and opinions which are those of the authors and do not necessarily reflect the official policy or position of any other author, agency, organization, employer or company, including <span id="disclaimer-domain2">Tolzo.site</span>.</p>
                     <p class="text-gray-600">Comments published by users are their sole responsibility and the users will take full responsibility, liability and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment.</p>
                 </div>
 
                 <div class="disclaimer-section">
                     <h2 class="text-2xl font-bold mb-4 text-gray-800">7. No Responsibility Disclaimer</h2>
                     <p class="text-gray-600 mb-4">The information on the Service is provided with the understanding that we are not herein engaged in rendering legal, accounting, tax, or other professional advice and services. As such, it should not be used as a substitute for consultation with professional accounting, tax, legal or other competent advisers.</p>
-                    <p class="text-gray-600">In no event shall <span id="disclaimer-domain3">LearnForAll</span> or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use or inability to access or use the Service.</p>
+                    <p class="text-gray-600">In no event shall <span id="disclaimer-domain3">Tolzo.site</span> or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use or inability to access or use the Service.</p>
                 </div>
 
                 <div class="disclaimer-section">
@@ -186,7 +186,7 @@
                         <svg class="w-8 h-8 text-blue-400" fill="currentColor" viewBox="0 0 24 24">
                             <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
                         </svg>
-                        <span class="text-2xl font-bold" id="footer-logo">LearnForAll</span>
+                        <span class="text-2xl font-bold" id="footer-logo">Tolzo.site</span>
                     </div>
                     <p class="text-gray-300">Free digital optimization tools for creators, marketers, and bloggers. Enhance your content and grow your audience with our powerful, easy-to-use tools.</p>
                 </div>
@@ -230,7 +230,7 @@
             </div>
 
             <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-                <p>&copy; 2025 <span id="copyright-domain">LearnForAll</span>. All rights reserved.</p>
+                <p>&copy; 2025 <span id="copyright-domain">Tolzo.site</span>. All rights reserved.</p>
             </div>
         </div>
     </footer>
@@ -247,7 +247,7 @@
             domainElements.forEach(id => {
                 const element = document.getElementById(id);
                 if (element) {
-                    element.textContent = currentDomain || 'LearnForAll';
+                    element.textContent = currentDomain || 'Tolzo.site';
                 }
             });
 
